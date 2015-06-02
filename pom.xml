@@ -67,7 +67,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!--<suiteXmlFile>src/test/resources/testSuite1.xml</suiteXmlFile> -->
-						<!--<suiteXmlFile>src/test/resources/testSuite2.xml</suiteXmlFile> -->
+	
 						<suiteXmlFile>${suite.name1}</suiteXmlFile>
 						<suiteXmlFile>${suite.name2}</suiteXmlFile>
 					</suiteXmlFiles>
